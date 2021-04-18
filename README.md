@@ -1,2 +1,2 @@
 # my_projects
-Here are some examples my written code.
+Here are some examples of code written by me.
